@@ -63,8 +63,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=154487&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=154487&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
