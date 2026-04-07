@@ -68,7 +68,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=154487&color=blueviolet&style=flat-square&label=Visitantes" />
-</p>
