@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/gustavo-henrique-oliveira-dias-0308a4326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://gustavo-portfolio-peach.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -18,7 +21,7 @@
 - 🤖 Trabalho com IAs: Claude, ChatGPT, Gemini e Grok no dia a dia
 - 🔧 Focado em construir sistemas eficientes e bem estruturados
 - 📚 Sempre aprendendo e me atualizando com novas tecnologias
-- 🌐 Em breve com site pessoal
+- 🌐 [Acesse meu site pessoal](https://gustavo-portfolio-peach.vercel.app)
 
 ---
 
